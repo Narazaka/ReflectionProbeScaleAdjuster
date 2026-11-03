@@ -1,18 +1,14 @@
 {
   "name": "net.narazaka.unity.reflection-probe-scale-adjuster",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "displayName": "Reflection Probe Scale Adjuster",
-  "description": "Reflection Probe Scale Adjuster",
+  "description": "Reflection Probe のサイズを親のスケールに追従するようにするやつ",
   "author": {
     "name": "Narazaka",
     "url": "https://github.com/Narazaka"
   },
   "license": "Zlib",
-  "type": "tool",
-  "url" : "https://github.com/Narazaka/ReflectionProbeScaleAdjuster.git",
-  "unity": "2022.3",
-  "vpmDependencies": {
-    "com.vrchat.avatars": ">=3.7.5",
-    "com.vrchat.worlds": ">=3.7.5"
-  }
+  "documentationUrl": "https://github.com/Narazaka/ReflectionProbeScaleAdjuster#usage",
+  "changelogUrl": "https://github.com/Narazaka/ReflectionProbeScaleAdjuster#changelog",
+  "unity": "2022.3"
 }

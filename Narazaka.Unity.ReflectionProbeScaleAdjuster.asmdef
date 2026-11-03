@@ -1,0 +1,22 @@
+{
+    "name": "Narazaka.Unity.ReflectionProbeScaleAdjuster",
+    "rootNamespace": "",
+    "references": [
+        "VRC.SDKBase"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.vrchat.base",
+            "expression": "3.7.5",
+            "define": "HAS_VRCSDK"
+        }
+    ],
+    "noEngineReferences": false
+}

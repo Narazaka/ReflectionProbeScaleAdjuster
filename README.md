@@ -1,8 +1,12 @@
 # Reflection Probe Scale Adjuster
 
-desc
+Reflection Probe のサイズを親のスケールに追従するようにするやつ
 
 ## Install
+
+### OpenUPM
+
+See [OpenUPM page](https://openupm.com/packages/net.narazaka.unity.reflection-probe-scale-adjuster/)
 
 ### VCC用インストーラーunitypackageによる方法（おすすめ）
 
@@ -16,7 +20,11 @@ https://github.com/Narazaka/ReflectionProbeScaleAdjuster/releases/latest から 
 
 ## Usage
 
-TODO
+Reflection Probe に Reflection Probe Scale Adjuster コンポーネントを追加するとよしなにしてくれるはず
+
+## Changelog
+
+- 0.1.0: リリース
 
 ## License
 
